@@ -1,5 +1,7 @@
 # Solver for the Benjamin-Bona-Mahony equation
 
+<img src="example.png"  width=50%>
+
 ## Algorithm
 
 This Matlab code is a spectral solver for the Benjamin-Bona-Mahony (BBM) equation:
